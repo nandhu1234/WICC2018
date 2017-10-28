@@ -1,0 +1,491 @@
+<resources>
+    <string name="app_name">WICC 2018</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">sClose navigation drawer</string>
+
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Keynote Speakers</item>
+        <item>About The Organization</item>
+        <item>General Chair</item>
+        <item>General Co-Chair</item>
+        <item>WICC</item>
+        <item>Important Dates</item>
+        <item>THEMES</item>
+        <item>Registration</item>
+        <item>ADVISORY COMMITTEE</item>
+        <item>ORGANIZED BY</item>
+        <item>TECHNICAL COMMITTEE</item>
+
+    </string-array>
+    <string name="advisory_committee">
+        <b><u>Prof. Vincenzo Piuri</u></b>\n
+Professor, University of Milan, ITALY\n
+\n<b><u>Prof. Andrea Asperti</u></b>\n
+Professor, Dipartimento di Informatica - Scienza e Ingegneria, Bologna, ITALY\n
+\n<b><u>Prof. Arun Somani\n</u></b>
+Distinguished Professor, College of Engineering, Lowa State University, USA\n
+\n<b><u>Prof. Wan Khairunizam Wan Ahmad\n</u></b>
+Associate Professor, School of Mechatronics, University of Malaysia Perlis, MALAYSIA\n
+\n<b><u>Prof. Vijay K. Vaishnavi\n</u></b>
+Professor Emeritus, Department of Computer Information Systems, Georgia State Universit, USA\n
+\n<b><u>Prof. Ramachandran (Venky) Venkatesan\n</u></b>
+Professor, Faculty of Engineering and Applied Science, Memorial University of Newfoundland, CANADA\n
+\n<b><u>Prof. Cristian Rodriguez Rivero\n</u></b>
+Professor, University of California, USA\n
+\n<b><u>Prof. Sartaj Sahni\n</u></b>
+Distinguished Professor, University of Florida, USA\n
+\n<b><u>Prof. Hussein Abbass\n</u></b>
+Professor, University of New South Wales, Sydney, AUSTRALIA\n
+\n<b><u>Prof. Jerry Luftman\n</u></b>
+Professor, Founder, and Managing Director Global Institute for IT Management, USA\n
+\n<b><u>Prof. Rajendra Prasath\n</u></b>
+National University of Ireland, University College Cork, Cork, IRELAND\n
+\n<b><u>Prof. Dr. Ganesan\n</u></b>
+Professor Oakland University, Rochester, USA\n
+\n<b><u>Prof. Dr. B V Babu\n</u></b>
+Former Vice Chancellor-Graphic Era University and Galgotias University, INDIA\n
+\n<b><u>Prof. Dr. Prashant R.Nair\n</u></b>
+Professor, Amrita Vishwa Vidyapeetham (University), Tamil Nadu, INDIA\n
+\n<b><u>Prof. Dr. Anirban Basu\n</u></b>
+Professor, APS College of Engineering, Bangalore, INDIA\n
+\n<b><u>Prof. Pabitra Pal Choudhury\n</u></b>
+Professor, Indian Statistical Institute, Kolkata, INDIA\n
+\n<b><u>Prof. Niladri Chatterjee\n</u></b>
+Professor, Indian Institute of Technology, New Delhi, INDIA\n
+\n<b><u>Prof. BhabatoshChanda\n</u></b>
+Indian Statistical Institute, Kolkata, INDIA\n
+\n<b><u>Prof. Dr.Venkatadri M\n</u></b>
+Professor, University of Petroleum and Energy Studies, Dehradun, INDIA\n
+\n<b><u>Prof. Dr. Jimson Mathew\n</u></b>
+Associate Professor, IIT Patna, INDIA\n
+\n<b><u>Prof. Dr. C Rama Krishna\n</u></b>
+Professor, NITTTR (Ministry of HRD, Govt. of India), Chandigarh, INDIA\n
+\n<b><u>Prof. Dr.S.Arumugam\n</u></b>
+Professor and Chief Executive Officer, Nandha Engineering College, Tamil Nadu, INDIA.\n
+\n<b><u>Prof. N.Nagarajan\n</u></b>
+Principal, Coimbatore Institute of Engineering and Technology, Coimbatore, Tamil Nadu, INDIA.\n
+\n<b><u>Prof. Dr. S. Karthik\n</u></b>
+Professor and Dean, SNS College of Technology, Tamil Nadu, INDIA\n
+\n<b><u>Prof. Dr.S.J.K.Jagadeesh Kumar\n</u></b>
+Dean Academics and Research, Sri Krishna College of Technology, Coimbatore, Tamil Nadu, INDIA\n
+\n<b><u>Prof. Dr. Umapada Pal\n</u></b>
+Professor, Indian Statistical Institute, Kolkata, INDIA\n
+\n<b><u>Prof. A. H. Mir\n</u></b>
+Dean, National Institute of Technology, Kashmir, INDIA\n
+\n<b><u>Prof. Dr.AkhileshSwarup\n</u></b>
+National Institute of Technology, Haryana, INDIA\n
+\n<b><u>Prof. G. Hemantha Kumar\n</u></b>
+Chairman, University of Mysore, Mysore, INDIA\n
+\n<b><u>Prof. Dr. UjjwalMaulik\n</u></b>
+Professor and Head, Jadavpur University, Kolkata, INDIA\n
+\n<b><u>Prof. Dr.K. ViswanathanIyer\n</u></b>
+Professor, National Institute of Technology-Tiruchirapalli, INDIA\n
+\n<b><u>Prof. Dr.T G Basavaraju\n</u></b>
+Professor and Head, Government SKSJ Technological Institute, Karnataka, INDIA\n
+\n<b><u>Prof. Dr. A. K. Misra, Professor\n</u></b>
+MNNIT Allahabad, INDIA\n
+\n<b><u>Prof. Timothy A. Gonsalves\n</u></b>
+Director, Indian Institute of Technology Mandi, Himachal Pradesh, INDIA\n
+\n<b><u>Prof. Prasad Reddy P.V.G.D\n</u></b>
+Professor, Department of Computer Science and Systems Engineering, College Of Engineering Andhra University, Visakhapatnam, INDIA\n"
+
+    </string>
+    <string name="technical_committee">
+\n\n<b><u>        Dr. Natarajan Meghanathan</u></b>\n
+Professor, Jackson State University, USA
+\n\n<b><u>Prof Ir Dr VignaKumaranRamachandaramurthy</u></b>\n
+Institute of Power Engineering, UniversitiTenagaNasional, MALAYSIA
+\n\n<b><u>Prof. Dr. Sanjay Misra</u></b>\n
+Professor, Chair of Center of ICT/ICE-Software and Hardware, Covenant University, NIGERIA
+\n\n<b><u>Prof. Dipanwita Roy Chowdhury</u></b>\n
+Chairman, Kalpana Chawla Space Technology Cell, IIT Kharagpur, INDIA
+\n\n<b><u>Dr. AtulGarg</u></b>\n
+Associate Professor,M. M. Institute of Computer Technology and Business Management, Mullana (Ambala), INDIA
+\n\n<b><u>Dr. Sudhanshu Kumar Jha</u></b>\n
+Assistant Professor, National Institute of Technology Jamshedpur, INDIA
+\n\n<b><u>Dr. Dilip Singh Sisodia</u></b>\n
+Assistant Professor and Head, National Institute of Technology Raipur, INDIA
+\n\n<b><u>Dr. Sanjeev Kumar</u></b>\n
+Professor and Head, Agra University, INDIA
+\n\n<b><u>Dr. P. S. Avadhani</u></b>\n
+Principal, College of Engineering Andhra University, Visakhapatnam, INDIA
+\n\n<b><u>Dr. Anil Kumar Dubey</u></b>\n
+Associate Professor, Poornima Institute of Engineering and Technology, Jaipur, INDIA
+\n\n<b><u>Shri Rakesh Kumar Sehgal</u></b>\n
+Joint Director and Head of Department, CDAC, INDIA
+\n\n<b><u>Dr. Sanjay Sood</u></b>\n
+Jt. Director (Healthcare Informatics) C-DAC Mohali, INDIA
+\n\n<b><u>Prof. Ch A S Murty</u></b>\n
+Joint Director C-DAC, INDIA
+\n\n<b><u>Dr.Neeta Singh</u></b>\n
+Assistant Professor, Gautam Buddha University, Uttar Pradesh, INDIA
+\n\n<b><u>Dr. S. Mini</u></b>\n
+Assistant Professor, National Institute of Technology Goa, INDIA
+\n\n<b><u>Dr. K ShashiPrabh</u></b>\n
+Shiv Nadar University, Uttar Pradesh, INDIA
+\n\n<b><u>Dr. Chittaranjan Pradhan</u></b>\n
+Assistant Professor, KIIT University, Bhubaneswar, INDIA
+\n\n<b><u>Dr.D.Kavitha</u></b>\n
+Professor, G.Pulla Reddy Engineering College, Kurnool, INDIA
+\n\n<b><u>Dr. T S Chandar</u></b>\n
+Professor, PES University, Karnataka, INDIA
+\n\n<b><u>Dr KVSVN Raju</u></b>\n
+Professor, Anil Neerukonda Institute of Technology and Sciences, Visakhapatnam, INDIA
+\n\n<b><u>Dr. Debashis De</u></b>\n
+Professor, MaulanaAbulKalam Azad University of Technology, West Bengal, INDIA
+\n\n<b><u>Dr. V. K. Jain</u></b>\n
+Dean, Mody University of Science and Technology, Rajasthan, INDIA
+\n\n<b><u>Dr. Diwakar Bhardwaj</u></b>\n
+Principal, University of Polytechnic, GLA University, U.P., INDIA
+\n\n<b><u>Dr.Charu</u></b>\n
+Associate Professor, Jaypee Institute of Information Technology, Uttar Pradesh, INDIA.
+\n\n<b><u>Dr.Sobhana N V</u></b>\n
+Professor, Rajiv Gandhi Institute of Technology, Kerala, INDIA
+\n\n<b><u>Dr.S.G Balakrishnan</u></b>\n
+Professor, APS College of engineering, Karnataka, INDIA
+\n\n<b><u>Prof M.Shashi</u></b>\n
+Professor, Andhra University -College of Engineering, Visakhapatnam, INDIA
+\n\n<b><u>Dr. K Satyanarayan Reddy</u></b>\n
+, Professor and Head, Cambridge Institute of Technology, Karnataka, INDIA
+
+\n\n<b><u>Dr.PraveenChakkravarthy</u></b>\n
+CVR College of Engineering, Hyderabad, INDIA
+
+\n\n<b><u>Dr.R.Praveen Sam</u></b>\n
+Professor, G. Pulla Reddy Engineering College (Autonomous), Andhra Pradesh, INDIA
+
+\n\n<b><u>Dr. Rajesh R</u></b>\n
+Central University of Kerala, INDIA
+
+\n\n<b><u>Dr.R. Vijayakumar</u></b>\n
+Professor, Mahatma Gandhi University, Kerala, INDIA
+
+\n\n<b><u>Dr. ChitraBabu</u></b>\n
+Professor and Head, SSN College of Engineering, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. J. Immanuel Johnraja</u></b>\n
+Professor and Head, Karunya University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. N. Prasath</u></b>\n
+Associate Professor, KPR Institute of Engineering and Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Prof. SmrithiRekha</u></b>\n
+Amrita University, Tamil Nadu, INDIADr.
+
+\n\n<b><u>J.Nafeesa Begum</u></b>\n
+Government College of Engineering-Bargur, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.K.Baskaran</u></b>\n
+Government College of Technology-Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. R Nedunchezhian</u></b>\n
+Professor, Coimbatore Institute of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. A.Balamurugan, </u></b>\n
+Sri Krishna College of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. LathaParameswaran</u></b>\n
+Professor and Chairperson, Amrita VishwaVidyapeetham, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.M.Sandhya</u></b>\n
+Professor and Head, B.S.Abdur Rahman University, Tamil Nadu, INDIA
+
+\n\n<b><u>Prof. M S Rohit</u></b>\n
+Assistant Professor, Jain Institute of Technology, INDIA
+
+\n\n<b><u>Dr.AngelinaGeetha</u></b>\n
+Professor, BSA CRESCENT UNIVERSITY, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. J. C. Miraclin Joyce Pamila</u></b>\n
+Assistant Professor (Senior Grade), Government College of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. A. JameerBasha</u></b>\n
+Professor and Head, Sri Krishna College of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. Kannan Balasubramanian</u></b>\n
+Professor, MepcoSchlenk Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. K. AnithaKumari</u></b>\n
+PSG College of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.S.S.Sridhar</u></b>\n
+SRM University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.D.Surendran</u></b>\n
+Professor, SKCET, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.P.Golda Jeyasheeli</u></b>\n
+Professor, MepcoSchlenk Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.T.Rajendran</u></b>\n
+Periyar University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. T. Kalaiselvi</u></b>\n
+The Gandhigram Rural Institute - Deemed University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Anil Kumar Verma</u></b>\n
+Professor, Thapar University, Punjab, INDIA
+
+\n\n<b><u>Prof. Christopher paul A</u></b>\n
+Assistant Professor, SNSCT, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.S. Joseph Gladwin</u></b>\n
+Associate Professor, SSN College of Engineering, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. M. Usha, Professor</u></b>\n
+Sona college of technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Hamsapriya</u></b>\n
+Professor and Head, PSG Institute of Technology and Applied Research, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. H. N. Suresh</u></b>\n
+Professor, Malnad College of Engineering, Karnataka, INDIA
+
+\n\n<b><u>Prof. Dr. R. Elijah Blessing</u></b>\n
+Registrar, Karunya University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. Julia Punitha Malar Dhas</u></b>\n
+Professor and Head, Noorul Islam University, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.M.Akila</u></b>\n
+Professor, KPR Institute of Engineering and Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. B. Surendiran</u></b>
+Assistant professor and HOD, National Institute of Technology Puducherry
+
+\n\n<b><u>Dr.S.Malliga</u></b>\n
+Professor, Kongu Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.M.Chinnadurai</u></b>\n
+Professor and Head, EGS Pillay Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Gopalakrishnan.K</u></b>\n
+Loyola-Icam College of Engineering and Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Jayashree L.S. </u></b>\n
+PSG College of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Thangarajan R</u></b>\n
+Professor, Kongu Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Lill Beaulah H</u></b>\n
+Professor, Mahendra College of Engineering, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Minu R.I. </u></b>\n
+Professor, Jerusalem College of Engineering, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. S. Shankar</u></b>\n
+Professor, Sri Krishna College of Engineering and Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.J.Jesu Vedha Nayahi</u></b>\n
+Assistant Professor, Anna University Regional Campus Tirunelveli, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.A.Bazila Banu</u></b>\n
+Assistant Professor, Bannari Amman Institute of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Jeevaa Katiravan</u></b>\n
+Associate Professor and Head, Velammal Engineering college, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.R.C.Suganthe</u></b>\n
+Professor, Kongu Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.T.Senthil Kumar</u></b>\n
+Associate Professor, Amrita School of Engineering, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. K. Premalatha</u></b>\n
+Professor, Bannari Amman Institute of Technology, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.N.Shanthi</u></b>\n
+Professor, Kongu Engineering College, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr, R. Kanchana</u></b>\n
+Associate Professor, SSN College of Engineering, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.R.Jemila Rose</u></b>\n
+        Associate Professor, St.Xavier\\’s Catholic College of Engg, Chunkankadai, Nagarkoil, Tamilnadu, INDIA.
+\n\n<b><u>Dr. G. Raghu Raman</u></b>\n
+Associate Professor, SSN College of Engineering, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Avanija J</u></b>\n
+Professor, RVS Educational Trusts Group of Institution, Dindigul, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Paul Rodrigues</u></b>\n
+Professor, DMI College of Engg., Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.R.R. Rajalaxmi</u></b>\n
+Professor, Kongu Engineering College, Erode, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.B. Bharathi</u></b>\n
+Associate Professor, SSN College of Engineering, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. K. Dhanalakshmi</u></b>\n
+Professor, PSNACET, Dindigul, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. D. Chitra</u></b>\n
+Professor, P. A. College of Engineering and Technology,Pollachi, Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. P. Latha</u></b>\n
+Professor, Government College of Engineering Tirunelveli,Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.N.Karthikeyan</u></b>\n
+Professor, Syed Ammal Engineering College, Ramanathapuram, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.M.Marikkannan</u></b>\n
+Professor, IRTT, Erode, Tamilnadu, India
+
+\n\n<b><u>Dr.D. Sasikala</u></b>\n
+Professor, Bannari Amman Insitute of Technology, Sathyamangalam, Tamilnadu, India
+
+\n\n<b><u>Dr.S.Jabeen Begum</u></b>\n
+Professor, Velalar College of Engineering and Technology,Erode, Tamilnadu, India
+
+\n\n<b><u>Dr. A. M. Kalpana</u></b>\n
+Professor, Government College of Engineering Tirunelveli,Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.S.Ayyasamy</u></b>\n
+Professor, Dr.NGP Institute of Technology,Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.B.Rajalakshmi</u></b>\n
+Professor, Velammal Engineering College, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. Godfrey winstersathianesan</u></b>\n
+Professor, Saveetha Engineering College, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. A. Grace Selvarani</u></b>\n
+Professor, Sri Ramakrishna Engineering College, Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.A.R.Kavitha, Professor</u></b>\n
+Jerusalem college of Engineering, Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. B.Raveendra Babu</u></b>\n
+Professor, RVR and JC College of Engineering, Guntur, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. L.Latha</u></b>\n
+Associate Professor, Kumaraguru College of Technology,Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.Kuppusamy P</u></b>\n
+Professor, Gnanamani College of Technology, Pachal, Namakkal, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.P.Natesan</u></b>\n
+Professor, Kongu Engineering College,Perundurai,Erode, Tamil Nadu, INDIA
+
+\n\n<b><u>Ms.S.Rajini</u></b>\n
+Associate Professor, Kumaraguru College of Technology,Coimbatore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. G.Manikandan</u></b>\n
+Professor, Tirumala Engineering College, Hyderabad, Telungana, Andhra Pradesh, INDIA.
+
+\n\n<b><u>Dr. B.Latha</u></b>\n
+Professor, Sri Sairam Engineering College,Chennai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. MarimuthuKaruppiah</u></b>\n
+Associate Professor, VIT University,Vellore, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.S.Kannan, Professor</u></b>\n
+E.G.S.Pillay Engineering College,Nagapattinam, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.G.S.Nandakumar</u></b>\n
+Associate Professor, Kumaraguru College of Technology,Coimbatore, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr. Askarunisa A</u></b>\n
+Professor,KLN College of Engineering and Technology, Madurai, Tamilnadu, INDIA.
+
+\n\n<b><u>Dr. S.Padmavathi, </u></b>\n
+Associate Professor, Thiagarajar College of Engineering, Madurai, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.S.Jenicka</u></b>\n
+Associate Professor, Sethu Institute of Technology, Kariapatti, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr.K.Jayashree</u></b>\n
+Assistant Professor, anara Engineering College, Benjanapadavu, Karnataka, INDIA.
+
+\n\n<b><u>Dr Rashid Ali</u></b>\n
+Associate Professor, Department of Computer Science and Engineering, Aligarh Muslim University, Aligarh, Uttar Pradesh, INDIA.
+
+\n\n<b><u>Dr.P.Varalakshmi</u></b>\n
+Assistant Professor [Sr.Gr], Department of Information Technology, Anna University, Chennai, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.Shreelekshmi R</u></b>\n
+Professor, Department of Computer Science and Engineering, College of Engineering Trivandrum, Kerala.
+
+\n\n<b><u>Dr.M.Aramudhan</u></b>\n
+Associate Professor, Department of Information Technology, Perunthalaivar Kamarajar Institute of Engineering and Technology, Nedungadu Karikal, Pondicherry.
+
+\n\n<b><u>Dr. S. Kannimuthu</u></b>\n
+Associate Professor, Department of CSE, Karpagam College of Engineering, Coimbatore, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr. K.Ramesh Babu</u></b>\n
+Associate Professor, VIT UNIVERSITY, Vellore, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr M Sadish Sendil</u></b>\n
+Assistant Professor Faculty of Information Systems and Technology SUR University College Sultanate of Oman, OMAN.
+
+\n\n<b><u>Dr. V. Chandrasekar</u></b>\n
+Professor, Department of CSE, Vimal Jyothi Engineering College, Kerala, INDIA.
+
+\n\n<b><u>Mr. B.Sudhakar</u></b>\n
+Assistant Professor, Department of ECE, Annamalai University, Chidambaram, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.J.sangeetha</u></b>\n
+Assistant Professor, Department of IT, SASTRA University, Tanjore, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.R.Muthuselvi</u></b>\n
+Professor, Department of CSE, Kamaraj College of Engineering and Technology, Virudhunagar, Tamil Nadu, INDIA
+
+\n\n<b><u>Dr. G. Nagappan</u></b>\n
+Professor, Department of CSE, Saveetha Engineering College, Chennai, Tamil Nadu, INDIA.
+
+\n\n<b><u>Dr.P.Madhavan</u></b>\n
+Associate Professor, Department of CSE, Sri Krishna College of Technology, Coimbatore, Tamil Nadu, INDIA.
+   </string>
+
+    <string name="registration1">
+
+<b><u>EARLY BIRD REGISTRATION (UP TO JANUARY 10, 2018)</u></b>\n\n
+<b>FOREIGN DELEGATES</b>\n
+ACM/IEEE/CSI Member: USD $100\n
+ACM/IEEE/CSI Non Member: USD $150\n\n
+<b>FROM INDUSTRY</b>\n
+ACM/IEEE/CSI Member: Rs 9000\n
+ACM/IEEE/CSI Non Member: Rs 10000	FROM INDUSTRY\n\n
+<b>ACADEMICIANS</b>\n
+ACM/IEEE/CSI Member: Rs 7000\n
+ACM/IEEE/CSI Non Member: Rs 8000	ACADEMICIANS\n\n
+<b>RESEARCH SCHOLARS</b>\n
+ACM/IEEE/CSI Member: Rs5000\n
+ACM/IEEE/CSI Non Member: Rs6000	RESEARCH SCHOLARS\n\n
+
+    </string>
+
+    <string name="registration12">
+        <b><u>REGULAR REGISTRATION (UP TO MARCH 10, 2018)</u></b>\n
+\n<b>FOREIGN DELEGATES</b>\n
+ACM/IEEE/CSI Member: USD $150\n
+ACM/IEEE/CSI Non Member: USD $200\n\n
+<b>FROM INDUSTRY</b>\n
+ACM/IEEE/CSI Member: Rs10000\n
+ACM/IEEE/CSI Non Member: Rs 11000\n\n
+<b>ACADEMICIANS</b>\n
+ACM/IEEE/CSI Member: Rs8000\n
+ACM/IEEE/CSI Non Member: Rs9000\n\n
+<b>RESEARCH SCHOLARS</b>\n
+ACM/IEEE/CSI Member: Rs6000\n
+ACM/IEEE/CSI Non Member: Rs7000\n\n
+</string>
+<string name="important_dates">
+    <b><u><h1>Important Dates</h1></u></b>\n\n
+    <b>Conference Date: 22-24March, 2018</b>\n
+<b>Call for Papers: 25th September, 2017</b>\n
+<b>Paper Submission Deadline : 25thNovember, 2017</b>\n
+<b>Notification of Acceptance :05th January, 2018</b>\n
+<b>Camera Ready Paper Submission :15thJanuary, 2018</b>\n
+</string>
+
+    <string name="wicc">
+        <p>The Department of Computer Science and Engineering, Sri Ramakrishna Institute of Technology, Coimbatore, Tamil Nadu, INDIA is conducting a Global Summit known as World Innovation and Computing Congress (WICC) 2018 during March 22-24, 2018. This summit will mark a global visibility and provide a unique platform to bring various research scholars, academicians, industrialists and students having affinity towards various research areas from across the world, including India, to discuss the present state of technology and innovations, its relevance and also the challenges faced by them in India and abroad. WICC 2018 focuses on both theory and applications in the broad areas of Innovations and Computation. WICC is a multidisciplinary conference organized with the objective of bringing together people working in all areas of Innovation and Computation. The conference will provide the authors and listeners with opportunities for national and international collaboration and networking among universities and institutions from India and abroad for promoting research and developing technologies. The conference will provide the flavor of keynote address by eminent speakers from different areas, Panel Discussion by industry people, Project Exhibition, Hackathon, Workshops, Tutorials and Poster Presentations. The scope of the conference includes all areas of Innovations and Computation.</p>
+    </string>
+</resources>

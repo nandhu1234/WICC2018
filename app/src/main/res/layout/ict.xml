@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Innovation in ICT for Education"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Innovation in ICT for effective Teaching and Learning\n
+Disruptive Learning Technologies\n
+Social Media for Innovative Classes\n
+Methodology and Didactics of Teaching and Using ICT\n
+Advances in and Tools for Technology Enhanced Learning\n
+Balance between Theory and Practice in Curriculum Design\n
+ICT Competence Design and Development\n
+Quality Assurance of ICT Education\n
+Professional Retraining and Life-Long Learning using ICT\n
+Infrastructures and Framework Conditions for ICT Education\n
+Modeling Systems in Education\n
+Preparing teachers for effective learning\n
+Engaging students in classroom interaction\n
+Social and cultural values in teacher education\n
+Digital Technologies for Collaborative Learning\n
+Contemporary issues in pedagogy"/>
+</LinearLayout>

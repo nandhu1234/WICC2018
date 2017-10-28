@@ -1,0 +1,45 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/snr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableTop="@drawable/snr"
+        android:gravity="center"
+        android:text="SNR Sons Charitable Trust" />
+
+    <TextView
+        android:id="@+id/srit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/snr"
+        android:drawableTop="@drawable/srit"
+        android:gravity="center"
+        android:text="Sri Ramakrishna Institute of Technology" />
+
+    <TextView
+        android:id="@+id/cse"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/srit"
+        android:drawableTop="@drawable/cse"
+        android:gravity="center"
+        android:text="Department of Computer Science and Engineering" />
+
+    <TextView
+        android:id="@+id/cbe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/cse"
+        android:drawableTop="@drawable/cbe"
+        android:gravity="center"
+        android:text="Coimbatore" />
+</RelativeLayout>
+</ScrollView>

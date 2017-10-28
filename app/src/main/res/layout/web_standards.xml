@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Web Standards"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Intelligent web computing and applications\n
+Data semantics and web-centric systems\n
+Ontologies and conceptual data modeling\n
+Knowledge representation and reasoning\n
+Web information retrieval\n
+Software architecture and middleware\n
+Semantic and intelligent services\n
+Service implementation and deployment\n
+Web services for Internet of Things\n
+Mobile Web services\n
+Grid and utility services\n
+Embedded services\n
+Internet-based Services\n
+Web 2.0 and Web X.0 in Web services\n
+XaaS (everything as a service)\n
+RESTful Web services"/>
+</LinearLayout>

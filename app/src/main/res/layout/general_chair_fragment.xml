@@ -1,0 +1,66 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent" android:layout_width="match_parent">
+    <RelativeLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+<!--        android:background="@drawable/bg23"
+-->
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:ems="10"
+            android:drawableLeft="@drawable/vincenzo"
+            android:inputType="textMultiLine"
+            android:text="Prof. Vincenzo Piuri
+Professor, Dipartimento di Informatica University of Milan, ITALY"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        1
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. SartajSahni
+Distinguished Professor, Department of Computer and Information Science and Engineering University of Florida, USA"
+            android:drawableLeft="@drawable/sartajsahni"
+            android:layout_below="@+id/text"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:ems="10"
+            android:drawableLeft="@drawable/sattar"
+            android:inputType="textMultiLine"
+            android:text="Prof. Dr. Eng. Sattar B. Sadkhan Al Maliky
+Professor, Digital Wireless Communication and Information security IT College- University of Babylon- IRAQ"
+            android:layout_below="@+id/text1"
+            android:layout_alignParentStart="true" />
+        1
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. Timothy A. Gonsalves
+Director, Indian Institute of Technology Mandi, Himachal Pradesh, INDIA"
+            android:drawableLeft="@drawable/timothy"
+            android:layout_below="@+id/text2"
+            android:layout_alignStart="@+id/text2" />
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. Ajay Gupta
+Professor of Computer Science and Graduate Program Director Wireless Sensornets Laboratory Western Michigan University, USA"
+            android:drawableLeft="@drawable/ajay"
+            android:layout_below="@+id/text3"
+            android:layout_alignStart="@+id/text3" />
+
+    </RelativeLayout>
+</ScrollView>

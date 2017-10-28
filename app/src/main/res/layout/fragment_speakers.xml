@@ -1,0 +1,86 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent" android:layout_width="match_parent">
+<RelativeLayout
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <!-- android:background="@drawable/bg23"-->
+
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:ems="10"
+        android:drawableLeft="@drawable/patricia"
+        android:inputType="textMultiLine"
+        android:text="Dr. PATRICIA ANTHONY, Senior Lecturer in Software and Information Technology, Lincoln University, NEW ZEALAND"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+    1
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. RAJESH SIDDAVATAM, Vice Chancellor, SaveethaAmaravati University, Vijayawada, Andhra Pradesh, INDIA"
+        android:drawableLeft="@drawable/rajesh"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="100sp"
+        android:ems="10"
+        android:drawableLeft="@drawable/sanjay"
+        android:inputType="textMultiLine"
+        android:text="Dr. SANJAY MISRA, Professor of Computer (Software) Engineering, Covenant University, OTA, NIGERIA"
+        android:layout_below="@+id/text1"
+        android:layout_alignParentStart="true" />
+    1
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr.SUDIP MISRA, Department of Computer Science and Engineering, Indian Institute of Technology Kharagpur, Kharagpur, INDIA"
+        android:drawableLeft="@drawable/sudip"
+        android:layout_below="@+id/text2"
+        android:layout_alignStart="@+id/text2" />
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. NILADRI CHATTERJEE, Department of Mathematics, Indian Institute of Technology Delhi, New Delhi, INDIA"
+        android:drawableLeft="@drawable/niladri"
+        android:layout_below="@+id/text3"
+        android:layout_alignStart="@+id/text3" />
+    <TextView
+        android:id="@+id/text5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. THINAGARAN PERUMAL, Department of Computer Science, Faculty of Computer Science and Information Technology Universiti Putra Malaysia, MALAYSIA"
+        android:drawableLeft="@drawable/niladri"
+        android:layout_below="@+id/text4"
+        android:layout_alignStart="@+id/text4" />
+    <TextView
+        android:id="@+id/text6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. NARESH KUMAR, Global Entrepreneurship Research and Innovation Centre Universiti Malaysia Kelantan City Campus, MALAYSIA"
+        android:drawableLeft="@drawable/naresh"
+        android:layout_below="@+id/text5"
+        android:layout_alignStart="@+id/text5" />
+
+    <TextView
+        android:id="@+id/text7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dr. CHITTARANJAN PRADHAN, Department of Mathematics, Indian Institute of Technology Delhi, New Delhi, INDIA"
+        android:drawableLeft="@drawable/chittaranjan"
+        android:layout_below="@+id/text6"
+        android:layout_alignStart="@+id/text6" />
+
+</RelativeLayout>
+</ScrollView>

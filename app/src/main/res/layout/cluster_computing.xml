@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Cluster Computing"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Novel innovative algorithms on clusters\n
+Innovative application studies on large-scale clusters\n
+Hybrid programming techniques\n
+Innovative Energy-efficient cluster architectures\n
+Performance evaluation tools\n
+Architecture for converged HPC/Big Data clusters\n
+Programming models for converged HPC/Big Data systems\n
+Fault tolerance and high-availability\n
+Visualization clusters and tiled displays\n
+Cluster architectures for Big Data storage and processing\n
+File systems and I/O libraries\n
+Cluster security\n
+Cluster system-level protocols and APIs\n
+Cluster system software/operating systems\n
+Accelerators/ManyCore and heterogeneous clusters"/>
+
+</LinearLayout>

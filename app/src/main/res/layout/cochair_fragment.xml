@@ -1,0 +1,67 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent" android:layout_width="match_parent">
+    <RelativeLayout
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+<!--        android:background="@drawable/bg23"-->
+
+
+        <TextView
+            android:id="@+id/text"
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:ems="10"
+            android:drawableLeft="@drawable/pradeep"
+            android:inputType="textMultiLine"
+            android:text="Prof. Dr. Pradeep K. Atrey, Director Department of Computer Science College of Engineering and Applied Sciences University at Albany, State University of New York, USA"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        1
+        <TextView
+            android:id="@+id/text1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. Dr. Visvasuresh (Victor) Govindaswamy, Director, Computer Programs, Concordia University, Chicago,
+USA"
+            android:drawableLeft="@drawable/visvasuresh"
+            android:layout_below="@+id/text"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:ems="10"
+            android:drawableLeft="@drawable/viswanathaniyer"
+            android:inputType="textMultiLine"
+            android:text="Prof. Dr.K.ViswanathanIyer,
+Professor, Computer Science and Engineering National Institute of Technology, Tiruchirapalli,
+INDIA"
+            android:layout_below="@+id/text1"
+            android:layout_alignParentStart="true" />
+        1
+        <TextView
+            android:id="@+id/text3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. Prashant R.Nair,
+Professor, Amrita VishwaVidyapeetham (University), Tamil Nadu,
+INDIA"
+            android:drawableLeft="@drawable/prashant"
+            android:layout_below="@+id/text2"
+            android:layout_alignStart="@+id/text2" />
+        <TextView
+            android:id="@+id/text4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Prof. Chun-I Fan
+Professor, Department of Computer Science and Engineering, National Sun Yat-sen University, Kaohsiung,Taiwan"
+            android:drawableLeft="@drawable/chun_i_fan"
+            android:layout_below="@+id/text3"
+            android:layout_alignStart="@+id/text3" />
+
+    </RelativeLayout>
+</ScrollView>

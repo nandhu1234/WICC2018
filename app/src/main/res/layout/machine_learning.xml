@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Machine Learning"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Innovative reasoning, learning and association rules
+\nConnectional learning and clustering\n
+Goodness measures and evaluation\n
+Inductive learning including decision tree and rule induction learning\n
+Organizational learning and evolutional learning\n
+Probabilistic information retrieval\n
+Classification and Model Estimation\n
+Automatic Semantic Annotation of Media Content\n
+Feature Grouping, Discretization, Selection and Transformation\n
+Learning/adaption of recognition and perception\n
+Learning of Visual Ontologies\n
+Nonlinear Function Learning and Neural Net Based Learning\n
+Statistical and Evolutionary Learning\n
+Support Vector Machines\n
+Speech Analysis\n
+Learning for modern robots"/>
+</LinearLayout>

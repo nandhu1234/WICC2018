@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in SMAC"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Big data and Social Media Analytics\n
+Big Data Cloud Analytics?\n
+Business Analytics and Big Data\n
+Customer Experience Management\n
+Online Listening\n
+Sentiment analysis\n
+Social Marketing\n
+Social Media Analytics\n
+Security and privacy applications\n
+Real-life case studies of value creation through advanced data analytic\n
+Data and Knowledge Management\n
+Context-awareness and Location-awareness\n
+Performance Evaluation and Modeling\n
+Next Generation Networks\n
+Traffic Theory, Modeling and Simulation\n
+User Evaluations and Case Studies\n
+Wireless Systems and Applications\n
+e-Government, e-Commerce, e-Science and Creative Technologies"/>
+</LinearLayout>

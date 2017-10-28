@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Artificial Intelligence"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Smart Approaches in Automation and Robotics\n
+Remote and Telerobotics\n
+Prototypical Applications\n
+Humanoid Robots: New Developments\n
+Affective computing\n
+Robot Manipulators: Trends and Development\n
+Computational Intelligence and Soft Computing\n
+Machine learning and statistical methods for data mining\n
+Neural Networks\n
+Deep Belief Network\n
+Fuzzy Logic\n
+Evolutionary Algorithms (EA)\n
+Genetic Algorithms (GA)\n
+Artificial Immune Systems And Support Vector Machines\n
+Decision/Utiliity Theory and Decision Optimization\n
+Description Logic and Ontologies\n
+Distributed Intelligence\n
+Smart Applications of AI"/>
+</LinearLayout>

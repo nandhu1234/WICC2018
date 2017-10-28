@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Cyber Security"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Information Security\n
+Computer Network Security\n
+Web Services Security\n
+Mobile Security\n
+Cyber Forensics\n
+Security in Middleware, Interface and Interaction\n
+Digital Trust and Reputation\n
+Policy, Legal, Legislation and Compliance\n
+Big data architectures for network security\n
+Detecting security threats in social networks\n
+Advanced Networking, Cloud Computing and Cyber Physical Systems\n
+Challenges, Opportunities, and Dimensions of Cyber-Physical Systems\n
+Cyber Intelligence and Information Integration\n
+Industrial Cloud-Based Cyber-Physical Systems\n
+Modeling and Analysis of Safety-Critical Cyber Physical Systems\n
+Modeling and Analysis of Safety-Critical Cyber Physical Systems\n
+Vehicular Cyber-Physical Systems and Cloud Computing"/>
+</LinearLayout>

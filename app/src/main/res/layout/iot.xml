@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Innovation in Internet of Things"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="@color/colorPrimaryDark"
+        android:textStyle="bold|italic" />
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Intelligent Systems for IoT and Services Computing\n
+Energy Efficiency\n
+Future of IoT\n
+Technological focus for Smart Environments\n
+Next Generation Networks\n
+Smart City Examples and Case Studies\n
+Data Analysis and Visualization for Smart City, Green Systems and Transport Systems\n
+Architecture for secure and interactive IoT\n
+Intelligent Infrastructure and Guidance Systems\n
+Pattern Recognition and Behavioral Investigations for Vehicles, Green Systems and Smart City\n
+Health Informatics\n
+Software Engineering Approaches, including Formal Methods, Agile Methods and Theoretical Algorithms for IoT\n
+System Design and Architecture\n
+Mobile APIs, Apps, Systems and Prototype\n
+Energy-saving and Green IT Systems or Applications"/>
+</LinearLayout>
